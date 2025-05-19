@@ -135,6 +135,17 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venvs
+./venvs
+venvs/
+.DS_Store
+*.DS_Store
+.ipynb_checkpoints
+__pycache__/
+*.egg-info/
+*.egg
+*.egg-info/
+*.egg-info/
 
 # Spyder project settings
 .spyderproject
